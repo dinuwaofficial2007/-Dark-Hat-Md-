@@ -69,9 +69,9 @@ require("./plugins/" + plugin);
 console.log('Plugins installed successful✅…')
 console.log('🎩Dark-Hat-Md🎩 connected to whatsapp✅…')
 
-let up = `Wa-BOT connected successful âœ…\n\nPREFIX: ${prefix}`;
+let up = `🎩Dark-Hat-Md-Bot🎩 connected successful✅✅…\n\nPREFIX: ${prefix}`;
 
-conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://telegra.ph/file/900435c6d3157c98c3c88.jpg` }, caption: up })
+conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://i.ibb.co/d7M2QQN/IMG-20240809-WA0039-1.jpg` }, caption: up })
 
 }
 })
@@ -168,7 +168,7 @@ command.function(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, i
 })
 }
 app.get("/", (req, res) => {
-res.send("hey, bot startedâœ…");
+res.send("🎩Dark-Hat-Md🎩 started✅✅…");
 });
 app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
 setTimeout(() => {
