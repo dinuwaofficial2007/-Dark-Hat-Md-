@@ -1,8 +1,8 @@
-  ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐇𝐈+𝐈𝐀𝐌+DARK-HAT-𝗕𝗢𝗧.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+TD+HIMA+𝚃𝙴𝙰𝙼;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+MR.༆DINUWA;𝐌𝐑:+☬T𝘿༒HIMA࿐;💕ඉතිං+ඔයල🙃;😁හොදින්+ඉන්නවානේ🧚)](https://git.io/typing-svg)
+  ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐇𝐈+𝐈𝐀𝐌+DARK-HAT-MD-𝗕𝗢𝗧.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+TD+HIMA+𝚃𝙴𝙰𝙼;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+MR.༆DINUWA;𝐌𝐑:+☬T𝘿༒HIMA࿐;💕ඉතිං+ඔයලා🙃;😁හොදින්+ඉන්නවානේ🧚)](https://git.io/typing-svg)
 
  <p align="center">  
   <a href="https://youtu.be/It-Ak-aSx0c">
-    <img alt="secktor docs" height="300" src="https://i.ibb.co/J5c13yt/Shenu-Queen.png">
+    <img alt="secktor docs" height="300" src="https://i.ibb.co/d7M2QQN/IMG-20240809-WA0039-1.jpg">
     <h1 align="center">DARK-HAT-MD-V1</h1>
   </a>
 </p>  
@@ -10,7 +10,7 @@
   <a aria-label="Join our chats" href="https://chat.whatsapp.com/HFyaKoMyFga5QE7rdFYOPA" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-<a aria-label="Bot Whatsapp" href="[https://chat.whatsapp.com/J6C3xxf5VAp0FW0KidBTwf](https://wa.me/94710109956?text=.menu)" target="_blank">
+<a aria-label="Bot Whatsapp" href="[https://chat.whatsapp.com/J6C3xxf5VAp0FW0KidBTwf](https://wa.me/94767330928?text=.menu)" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Bot%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   
@@ -22,7 +22,7 @@
 ![stars](https://img.shields.io/github/stars/CYBER-THUSHAN/SHENU-QUEEN-MDi?style=social)
   
 #### ```TOTAL PROFILE VIEWS 🧚```
-![Visitor Count](https://profile-counter.glitch.me/CYBER-THUSHAN/count.svg) 
+![Visitor Count](https://profile-counter.glitch.me/sanjeewat847/count.svg) 
 
 
 ## `⨷ SCAN QR`
