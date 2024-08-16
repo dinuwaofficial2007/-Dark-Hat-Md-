@@ -70,7 +70,7 @@ click the below button to deploy on heroku!
 
 
 <p align="center" >
-    <a href="https://heroku.com/deploy?template=https://github.com/CYBER-THUSHAN/SHENU-QUEEN-MD">
+    <a href="https://heroku.com/deploy?template=https://github.com/sanjeewat847/Dark-Hat-Md/">
     <img src="https://www.herokucdn.com/deploy/button.png" width="160px" alt="Deploy on Heroku" >
     </a>
 
@@ -78,9 +78,9 @@ click the below button to deploy on heroku!
 ```
 {
   "SESSION_ID": "ID-Here",
-  "THEME": "SHENU-QUEEN",
-  "OWNER_NUMBER": "94710109956",
-  "OWNER_NAME": "THUSHAN",
+  "THEME": "🎩DARK-HAT-MD🎩",
+  "OWNER_NUMBER": "94767330928",
+  "OWNER_NAME": "DINUWA",
   "OPENAI_API_KEY": "null",
   "WORKTYPE": "public",
   "AUTO_STATUS_SAVER": "true",
@@ -88,7 +88,7 @@ click the below button to deploy on heroku!
   "AUTO_REACTION": "true",
   "ALWAYS_ONLINE": "true",
   "MONGODB_URI": "mongodb://mongo:cCBe2fBeA26f4eEbDbC2gD64226EHFg3@viaduct.proxy.rlwy.net:34483",
-  "PACK_INFO": "cyber;THUSHAN",
+  "PACK_INFO": "MR;DINUWA",
    
 }
 ```
@@ -105,30 +105,6 @@ click the below button to deploy on heroku!
 
 
 
-
-## `⨷ Deploy To koyeb 👇` 
-  
-  [Click here to deploy on koyeb](https://app.koyeb.com/)
-<br>
-
-
-
-## `⨷ Deploy To Railway 👇` 
-  
-  [Click here to deploy on Railway](https://railway.app?referralCode=FnnJ_C)
-<br>
-
-
-```
-## 🔰ඔබට ඉතමත් ලෙසියෙන් සද ගත හැකි WAHTSAPP BOT වරයෙකි
-```
-
-
-## [☰☘️ 𝙎𝙋𝙄𝘾𝙄𝘼𝙇 𝙏𝙃𝘼𝙉𝙆 𝙔𝙊𝙐 ☘️☰]
-
-| <a href="https://kaveeshasithum.netlify.app/"><img src="https://telegra.ph/file/b9d966873dea349df90a8.jpg" width=80 height=80></a> | <a href="http://tiktok.com/@hirutalks"><img src="https://telegra.ph/file/fb903cab55a4352357b76.jpg" width=80 height=80></a> | <img src="https://telegra.ph/file/506e06c7ff382161f2eeb.jpg" width=80 height=80></a> |
-|---|---|---|
-| **[kaveesha Sithum](https://github.com/kaveesha-sithum)**</br>⭕𝙏𝙃𝘼𝙉𝙆 𝙔𝙊𝙐 ☘️⭕</br> | **[HIMESH](https://github.com/kumarahimes](http://tiktok.com/@hirutalks))**</br> ⭕𝙏𝙃𝘼𝙉𝙆 𝙔𝙊𝙐 ☘️⭕ | **[hansamal]()**</br>⭕𝙏𝙃𝘼𝙉𝙆 𝙔𝙊𝙐 ☘️⭕
 
 
 
